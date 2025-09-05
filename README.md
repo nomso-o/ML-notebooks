@@ -1,3 +1,3 @@
-< span color= Blue; font =comic sans># ML-notebooks </span>
+<span style="color:blue"> # ML-notebooks </span>
 --
 A repository of short ML pipeline tasks.
